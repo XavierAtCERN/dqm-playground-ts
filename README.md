@@ -29,11 +29,14 @@ __Time serie analysis__
 
 - [Time Series with Python](https://app.datacamp.com/learn/skill-tracks/time-series-with-python)
 - [Time Series / Sequential Data study group](https://forums.fast.ai/t/time-series-sequential-data-study-group/29686)
-- ...
+- [Gramian Angular Field](https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3)
 
-__LSTM__
+__Recurrent Neural Networks__
 
-...
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [The Unreasonable Effectiveness of RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Classifying Names with a Character-Level RNN](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
+- [Generating Names with a Character-Level RNN](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
 
 __Finance__
 
